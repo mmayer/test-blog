@@ -3,7 +3,7 @@
 
 AUTHOR = 'Markus Mayer'
 SITENAME = 'Pelican Test'
-SITEURL = 'http://pelican.mmayer.net/'
+SITEURL = 'http://pelican.mmayer.net'
 
 TIMEZONE = 'America/Vancouver'
 
